@@ -1,0 +1,14 @@
+C:\Users\muhis\Desktop\FCTRL---Factorial\FCTRL - Factorial\bin\Debug\netcoreapp3.1\FCTRL - Factorial.exe
+C:\Users\muhis\Desktop\FCTRL---Factorial\FCTRL - Factorial\bin\Debug\netcoreapp3.1\FCTRL - Factorial.deps.json
+C:\Users\muhis\Desktop\FCTRL---Factorial\FCTRL - Factorial\bin\Debug\netcoreapp3.1\FCTRL - Factorial.runtimeconfig.json
+C:\Users\muhis\Desktop\FCTRL---Factorial\FCTRL - Factorial\bin\Debug\netcoreapp3.1\FCTRL - Factorial.runtimeconfig.dev.json
+C:\Users\muhis\Desktop\FCTRL---Factorial\FCTRL - Factorial\bin\Debug\netcoreapp3.1\FCTRL - Factorial.dll
+C:\Users\muhis\Desktop\FCTRL---Factorial\FCTRL - Factorial\bin\Debug\netcoreapp3.1\FCTRL - Factorial.pdb
+C:\Users\muhis\Desktop\FCTRL---Factorial\FCTRL - Factorial\obj\Debug\netcoreapp3.1\FCTRL - Factorial.csproj.AssemblyReference.cache
+C:\Users\muhis\Desktop\FCTRL---Factorial\FCTRL - Factorial\obj\Debug\netcoreapp3.1\FCTRL - Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhis\Desktop\FCTRL---Factorial\FCTRL - Factorial\obj\Debug\netcoreapp3.1\FCTRL - Factorial.AssemblyInfoInputs.cache
+C:\Users\muhis\Desktop\FCTRL---Factorial\FCTRL - Factorial\obj\Debug\netcoreapp3.1\FCTRL - Factorial.AssemblyInfo.cs
+C:\Users\muhis\Desktop\FCTRL---Factorial\FCTRL - Factorial\obj\Debug\netcoreapp3.1\FCTRL - Factorial.csproj.CoreCompileInputs.cache
+C:\Users\muhis\Desktop\FCTRL---Factorial\FCTRL - Factorial\obj\Debug\netcoreapp3.1\FCTRL - Factorial.dll
+C:\Users\muhis\Desktop\FCTRL---Factorial\FCTRL - Factorial\obj\Debug\netcoreapp3.1\FCTRL - Factorial.pdb
+C:\Users\muhis\Desktop\FCTRL---Factorial\FCTRL - Factorial\obj\Debug\netcoreapp3.1\FCTRL - Factorial.genruntimeconfig.cache
